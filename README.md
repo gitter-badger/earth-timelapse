@@ -1,4 +1,6 @@
 # earth-timelapse
+
+[![Join the chat at https://gitter.im/kylecs/earth-timelapse](https://badges.gitter.im/kylecs/earth-timelapse.svg)](https://gitter.im/kylecs/earth-timelapse?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Uses the NASA Earth Image API to get images from a specified location over a specified time interval and create a GIF of the resulting timelapse.
 
 For example, here is a construction site near my university over the last 2 years:
